@@ -299,7 +299,7 @@
 #define __________DEF_L3__________  &none   &kp Z   &kp X   &kp C   &kp V      &kp B
 #define _________THUMB_DEF_L_______ &cl_num   &cl_sym  &ss_cw &none
 
-#define __________DEF_R1__________  &out OUT_USB   &kp U      &kp I     &kp O   &kp P    &none
+#define __________DEF_R1__________  &out OUT_USB  &kp U      &kp I     &kp O   &kp P    &none
 #define __________DEF_R2__________  &kp H      &kp J      &kp K     &kp L   &kp SQT  &none
 #define __________DEF_R3__________  &kp N      &kp M      &kp COMMA &kp DOT &kp BSPC &none
 #define _________THUMB_DEF_R_______ &none &kp LCTRL  &mt LGUI SPACE    &cl_nav
